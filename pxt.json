@@ -1,5 +1,5 @@
 {
-    "name": "llupisgoat>pepicL",
+    "name": "arcade pepic game",
     "description": "",
     "dependencies": {
         "device": "*"
@@ -16,7 +16,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "1.8.25",
+        "target": "1.8.26",
         "targetId": "arcade"
     },
     "supportedTargets": [
